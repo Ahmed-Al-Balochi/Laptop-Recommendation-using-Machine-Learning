@@ -13,5 +13,10 @@ This is my University AI project and it works by learning the ```Laptop-Datagram
 3. numpy. [Installation guide](https://numpy.org/install/).
 4. Sklearn. [Installation guide](https://scikit-learn.org/stable/install.html).
 
+* after setting up these packages enter:
+```
+streamlit run LaptopRecommendationSystem.py
+```
+
 ## Feedback
 * If you have any problem or a solution to make this project better then please share.
